@@ -1,1 +1,1 @@
-{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Testing \u00b6","title":"Intro"},{"location":"#testing","text":"","title":"Testing"}]}
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"Home/","text":"Testing \u00b6","title":"Home"},{"location":"Home/#testing","text":"","title":"Testing"}]}
